@@ -11,8 +11,8 @@ This project is a C-based program that generates perfect labyrinths, where each 
 - **Perfect Labyrinth Generation**: The program creates a perfect maze with no loops or inaccessible areas.
 - **Interactive Gameplay**: The user can control a movable square to navigate the labyrinth, aiming to reach a target.
 - **Visual Interface**: The labyrinth is displayed with a red path on a black background for clarity. The player and target are represented as colored squares.
+- ![image](https://github.com/user-attachments/assets/5eb98d18-f1b7-4d84-ab92-142d3b025e30)
 
-![Labyrinth Interface](path/to/your/image.png)  
 
 ## Technical Details
 - **Language**: C
